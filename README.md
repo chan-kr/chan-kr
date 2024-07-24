@@ -3,3 +3,7 @@
 
 # 🧑🏻‍💻 I'm Heo Chan 
 
+ * name : Heo Chan
+ * age  : 25 (international age)
+ * Korean
+ * Hannam University SE Lab
