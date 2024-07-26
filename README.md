@@ -11,7 +11,7 @@ here's what i've been publishing on my GitHub lately:
 
 * [2024/03/24] Hannam University 24 CAPSTONE DESIGN Project (Flutter App Programming)
 * [2024/07/26] Custom Chatting AI with Llama3
-* [2024/07/01] Small Module Reactor Research with Hannam University SE Lab 
+* [2024/07/01] Small Module Reactor Research with Hannam University SE Lab (private)
 * [date] --Project Name--
 * [date] --Project Name--
 
