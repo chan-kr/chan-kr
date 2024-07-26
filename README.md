@@ -5,7 +5,7 @@
 
 I'm Heo Chan, a junior Front-end developer based in Daejeon, Kr.
 
-You might want to have a look at my ...
+You might want to have a look at my Projects
 
 here's what i've been publishing on my GitHub lately:
 
